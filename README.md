@@ -6,3 +6,4 @@ Un blog increible para el curso de Git y Github en platzi
 
 * Creado por el increible chinga ink
 * Incluye ejemplos 
+* disponible para todas las edades
